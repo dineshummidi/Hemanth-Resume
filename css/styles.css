@@ -13,7 +13,7 @@
 .container2{
   background-color: pink;
   height :auto;
-  width: 1050px;
+  width: 1200px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -112,7 +112,7 @@ font-size: 120%}
   }
   .resumetext2{
     background-color: black;
-    color: white;
+    color: red;
     text-align: center;
     height: 2.5rem  ;
     width: auto;
