@@ -1,6 +1,6 @@
 
 .container1{
-  background-color: #9ED2C6;
+  background-color: #607EAA;
   height: auto;
   width: 320px;
   padding:20px 10px 20px 10px;
@@ -11,9 +11,9 @@
 }
 
 .container2{
-  background-color: pink;
+  background-color: #607EAA;
   height :auto;
-  width: 1200px;
+  width: 1050px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -72,7 +72,8 @@
   padding:0 50px 0 10px;
 }
 .sum {
-  background-color: white;
+  background-color: black;
+  color: white;
 
 }
 
@@ -84,8 +85,8 @@
 font-size: 120%}
 
 .container2 h4{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
 }
 .container2 h4{
   font-size: 20px;
